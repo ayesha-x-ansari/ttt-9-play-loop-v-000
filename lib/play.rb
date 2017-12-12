@@ -44,6 +44,6 @@ def play(board)
 #    call turn(board)
     puts "count  #{count}"
     puts  "in turn"
-    count + 1
+    count += 1
   end
 end
