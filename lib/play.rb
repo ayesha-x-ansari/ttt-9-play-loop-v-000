@@ -40,11 +40,7 @@ def play(board)
 
   count = 1
   until count == 10
-    puts "eeeeeeeeeeeeeeeeee"
-  #  display_board(board)
     turn(board)
-    puts "count  #{count}"
-    puts  "in turn"
     count += 1
   end
 end
