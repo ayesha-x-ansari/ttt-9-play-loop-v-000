@@ -41,7 +41,7 @@ def play(board)
   count = 0
   until count == 10
     puts "eeeeeeeeeeeeeeeeee"
-    call turn(board)
+#    call turn(board)
     puts "count  #{count}"
     puts  "in turn"
     count + 1
