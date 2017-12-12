@@ -38,7 +38,7 @@ end
 # Define your play method below
 def play(board)
 
-  count = 0
+  count = 1
   until count == 10
     puts "eeeeeeeeeeeeeeeeee"
   #  display_board(board)
