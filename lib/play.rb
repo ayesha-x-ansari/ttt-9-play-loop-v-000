@@ -40,6 +40,7 @@ def play(board)
   count = 0
   until count == 10
     call turn(board)
+    puts "count  #{count}"
     count + 1
   end
 end
