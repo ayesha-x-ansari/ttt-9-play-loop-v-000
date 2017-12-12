@@ -39,7 +39,7 @@ end
 def play(board)
 
   count = 1
-  until count == 9
+  until count == 10
     puts "eeeeeeeeeeeeeeeeee"
   #  display_board(board)
     turn(board)
